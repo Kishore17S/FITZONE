@@ -1,0 +1,80 @@
+.vedio{
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+.video1{
+    margin-top: 30px;
+    margin-left: 90px;
+    position: absolute;
+}
+.video2{
+    margin-top: 30px;
+    margin-left: 600px;
+    position: absolute;
+}
+.video3{
+    margin-top: 30px;
+    margin-left: 1100px;
+    position: absolute;
+}
+.video4{
+    margin-top: 360px;
+    margin-left: 90px;
+    position: absolute;
+}
+.video5{
+    margin-top: 360px;
+    margin-left: 600px;
+    position: absolute;
+}
+.video6{
+    margin-top: 360px;
+    margin-left: 1100px;
+    position: absolute;
+}
+.video7{
+    margin-top: 690px;
+    margin-left: 90px;
+    position: absolute;
+}
+.video8{
+    margin-top: 690px;
+    margin-left: 600px;
+    position: absolute;
+}
+.video9{
+    margin-top: 690px;
+    margin-left: 1100px;
+    position: absolute;
+}
+.video10{
+    margin-top: 1020px;
+    margin-left: 90px;
+    position: absolute;
+}
+.video11{
+    margin-top: 1020px;
+    margin-left: 600px;
+    position: absolute;
+}
+.video12{
+    margin-top: 1020px;
+    margin-left: 1100px;
+    position: absolute;
+}
+.video13{
+    margin-top: 1350px;
+    margin-left: 90px;
+    position: absolute;
+}
+.video14{
+    margin-top: 1350px;
+    margin-left: 600px;
+    position: absolute;
+}
+.video15{
+    margin-top: 1350px;
+    margin-left: 1100px;
+    position: absolute;
+}
+

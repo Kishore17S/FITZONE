@@ -1,0 +1,60 @@
+.neatboard_App {
+    width:90vw;
+    height: 90vh;
+  }
+  body
+  {
+    margin: 0;
+    padding: 0;
+  }
+  .neatboard_Sidebar
+  {
+    height: 700px;
+    width: 200px;
+    background-color: #2F4050;
+  }
+  .neatboard_SidebarList
+  {
+    height: auto;
+    padding: 0;
+    width: 100%;
+  }
+  .neatboard_SidebarList .neatboard_row
+  {
+    height: 60px;
+    width: 100%;
+    list-style-type: none;
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  }
+  .neatboard_SidebarList .neatboard_row:hover
+  {
+    cursor: pointer;
+    background-color: #293846;
+  }
+  .neatboard_SidebarList #neatboard_active
+  {
+    background-color: #293846;
+  }
+  .neatboard_row #neatboard_icon
+  {
+    flex: 30%;
+    display: grid;
+    place-items: center;
+  
+  }
+  .neatboard_row #neatboard_title
+  {
+    flex: 70%;
+  }
+  .hi_dash{
+    margin-left: 300px;
+    position: absolute;
+    margin-top: 500px;
+  }

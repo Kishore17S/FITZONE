@@ -1,0 +1,77 @@
+.Challenge_body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+}
+.Challenge_header{
+    background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+}
+.Challenge_main{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.Challenge_section{
+    flex: 1 1 calc(33% - 20px);
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease-in-out;
+}
+.Challenge_h2{
+    margin-top: 0;
+      font-size: 1.6rem;
+      margin-bottom: 20px;
+      text-align: center;
+      color: #555;
+}
+.challenge, .reward {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    transition: transform 0.3s ease-in-out;
+  }
+  .challenge:hover, .reward:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .challenge_form{
+    margin-top: 20px;
+      display: flex;
+      justify-content: flex-end;
+  }
+  .challenge_button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    margin-left: 500px;
+    height: 50px;
+    width: 200px;
+  }
+  .challenge_button:hover {
+    background-color: #555;
+  }
+  .reward img {
+    max-width: 100px;
+    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto 10px;
+  }
+  .challenge_p{
+    line-height: 1.6;
+  }

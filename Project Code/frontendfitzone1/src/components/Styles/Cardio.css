@@ -1,0 +1,92 @@
+#cardio_features{
+    width:100%;
+    height:100vh;
+    box-sizing: border-box;
+    font-family:'Lato';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px ;
+    background-color: #000000;
+}
+#cardio_features h1{
+    color: #fff;
+    font-size: 3rem;
+}
+#cardio_features1{
+    width:100%;
+    height:100vh;
+    box-sizing: border-box;
+    font-family:'Lato';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px ;
+    background-color: #000000;
+}
+#cardio_features1 h1{
+    color: #fff;
+    font-size: 3rem;
+}
+.cardio_workout_card1 {
+    box-shadow: 0 8px 8px 0 rgba(213, 16, 16, 0.8);;
+    transition: 0.5s;
+    width: 15%;
+    cursor: pointer;
+    margin-right: 1100px;
+    margin-bottom: -350px;
+  }
+  .cardio_workout_card1:hover {
+    box-shadow: 0 16px 16px 0 rgba(255, 0, 0, 0.8);;
+  }
+  .cardio_workout_container1 {
+    padding: 2px 16px;
+  }
+
+.cardio_workout_card2 {
+    box-shadow: 0 8px 8px 0 rgba(213, 16, 16, 0.8);;
+    transition: 0.5s;
+    width: 15%;
+    cursor: pointer;
+    margin-right: 350px;
+    margin-bottom: -350px;
+  }
+  .cardio_workout_card2:hover {
+    box-shadow: 0 16px 16px 0 rgba(255, 0, 0, 0.8);;
+  }
+  .cardio_workout_container2 {
+    padding: 2px 16px;
+  }
+
+  .cardio_workout_card3 {
+    box-shadow: 0 8px 8px 0 rgba(213, 16, 16, 0.8);;
+    transition: 0.5s;
+    width: 15%;
+    cursor: pointer;
+    margin-right: -400px;
+    margin-bottom: -300px;
+  }
+  .cardio_workout_card3:hover {
+    box-shadow: 0 16px 16px 0 rgba(255, 0, 0, 0.8);;
+  }
+  .cardio_workout_container3 {
+    padding: 2px 16px;
+  }
+
+  .cardio_workout_card4 {
+    box-shadow: 0 8px 8px 0 rgba(213, 16, 16, 0.8);;
+    transition: 0.5s;
+    width: 15%;
+    cursor: pointer;
+    margin-right: -1200px;
+    margin-bottom: -300px;
+  }
+  .cardio_workout_card4:hover {
+    box-shadow: 0 16px 16px 0 rgba(255, 0, 0, 0.8);;
+  }
+  .cardio_workout_container4 {
+    padding: 2px 16px;
+  }
+

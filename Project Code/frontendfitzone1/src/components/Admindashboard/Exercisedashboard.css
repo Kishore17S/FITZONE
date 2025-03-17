@@ -1,0 +1,247 @@
+#exercisedashboard_features{
+    width:100%;
+    height:100vh;
+    box-sizing: border-box;
+    font-family:'Lato';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px ;
+    background-color: #383636;
+}
+#exercisedashboard_features h1{
+    color: #fff;
+    font-size: 3rem;
+}
+#exercisedashboard_features1{
+    width:100%;
+    height:100vh;
+    box-sizing: border-box;
+    font-family:'Lato';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px ;
+    background-color: #000000;
+}
+#exercisedashboard_features1 h1{
+    color: #fff;
+    font-size: 3rem;
+}
+.exercisedashboard_workout_card41 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 400px;
+     margin-top: 40px;
+    
+  }
+  .exercisedashboard_workout_card41:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container41 {
+    padding: 2px 16px;
+  }
+.exercisedashboard_workout_card42 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 800px;
+     margin-top: 40px;
+    
+  }
+  .exercisedashboard_workout_card42:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container42 {
+    padding: 2px 16px;
+  }
+.exercisedashboard_workout_card43 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 1200px;
+     margin-top: 40px;
+    
+  }
+  .exercisedashboard_workout_card43:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container43 {
+    padding: 2px 16px;
+  }
+
+  .exercisedashboard_workout_card44 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 400px;
+     margin-top: 380px;
+    
+  }
+  .exercisedashboard_workout_card44:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container44 {
+    padding: 2px 16px;
+  }
+
+  .exercisedashboard_workout_card21 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 800px;
+     margin-top: 380px;
+    
+  }
+  .exercisedashboard_workout_card21:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container21 {
+    padding: 2px 16px;
+  }
+
+  .exercisedashboard_workout_card22 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 1200px;
+     margin-top: 720px;
+    
+  }
+  .exercisedashboard_workout_card22:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container22 {
+    padding: 2px 16px;
+  }
+  .exercisedashboard_workout_card23 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 400px;
+     margin-top: 720px;
+    
+  }
+  .exercisedashboard_workout_card23:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container23 {
+    padding: 2px 16px;
+  }
+
+  .exercisedashboard_workout_card24 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 800px;
+     margin-top: 720px;
+    
+  }
+  .exercisedashboard_workout_card24:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container24 {
+    padding: 2px 16px;
+  }
+
+  .exercisedashboard_workout_card31 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 1200px;
+     margin-top: 380px;
+    
+  }
+  .exercisedashboard_workout_card31:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container31 {
+    padding: 2px 16px;
+  }
+  .exercisedashboard_workout_card32 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 400px;
+     margin-top: 1100px;
+    
+  }
+  .exercisedashboard_workout_card32:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container32 {
+    padding: 2px 16px;
+  }
+  .exercisedashboard_workout_card33 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 800px;
+     margin-top: 1100px;
+    
+  }
+  .exercisedashboard_workout_card33:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container33 {
+    padding: 2px 16px;
+  }
+  .exercisedashboard_workout_card11 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 1200px;
+     margin-top: 1100px;
+    
+  }
+  .exercisedashboard_workout_card11:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container11 {
+    padding: 2px 16px;
+  }
+  .exercisedashboard_workout_card12 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 400px;
+     margin-top: 1440px;
+    
+  }
+  .exercisedashboard_workout_card12:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container12 {
+    padding: 2px 16px;
+  }
+  .exercisedashboard_workout_card34 {
+    cursor: pointer;
+    transition: 0.5s;
+    width: 15%;
+     box-shadow: 0 8px 8px 0 rgba(117, 108, 108, 0.8);
+     margin-left: 800px;
+     margin-top: 1440px;
+    
+  }
+  .exercisedashboard_workout_card34:hover {
+    box-shadow: 0 16px 16px 0 rgba(103, 94, 94, 0.8);;
+  }
+  .exercisedashboard_workout_container34 {
+    padding: 2px 16px;
+  }

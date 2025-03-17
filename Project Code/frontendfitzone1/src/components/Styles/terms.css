@@ -1,0 +1,23 @@
+
+.terms_content2 {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  .terms_content1{
+    text-align: center;
+  }
+  
+  
+    .terms_content2 {
+    margin-left:350px;
+      width: 50%;
+      display: block;
+      margin-top: 50px;
+    }
+  
+  .terms_content3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    background-color: #f9f3f3;
+  }
