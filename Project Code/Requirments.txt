@@ -1,0 +1,7 @@
+vs code for frontend
+intelliJ for backend
+
+running: npm start
+
+email for login: hii123@gmail.com
+password for login: hii123
