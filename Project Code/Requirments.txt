@@ -1,6 +1,8 @@
 vs code for frontend
 intelliJ for backend
 
+install node modules
+
 running: npm start
 
 email for login: hii123@gmail.com
